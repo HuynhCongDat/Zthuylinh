@@ -1,0 +1,1 @@
+Logo mèo từ ảnh người dùng cung cấp. Đã thay icon-192.png, icon-512.png, apple-touch-icon.png và thêm favicon.ico, favicon-16.png, favicon-32.png. Đã cập nhật đường dẫn cache bust v11 và service worker cache v11. Upload TOÀN BỘ NỘI DUNG của thư mục này vào root repository GitHub, không upload nguyên thư mục cha.
