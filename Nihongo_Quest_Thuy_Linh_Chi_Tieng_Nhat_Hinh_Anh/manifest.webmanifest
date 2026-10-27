@@ -1,0 +1,25 @@
+{
+  "name": "Nihongo Quest của Thùy Linh",
+  "short_name": "Nihongo Quest",
+  "description": "Hôm nay em iu học tiếng Nhật vui nha! 🌸🇯🇵",
+  "lang": "vi",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f8fc",
+  "theme_color": "#6876e9",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
