@@ -1,0 +1,1 @@
+Nihongo Quest v26: Luyện viết Hiragana, Katakana và Kanji N5/N4. Chọn bộ, xem cách đọc, viết trên canvas, chấm độ giống hình mẫu. Kanji là bộ tuyển chọn, không phải danh sách JLPT chính thức; không chấm thứ tự nét. HTML test đã nhúng các JS phụ.

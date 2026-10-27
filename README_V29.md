@@ -1,0 +1,1 @@
+Nihongo Quest v29: Mỗi ngày học đủ 20 từ mới nhận 1 nụ hôn; lưu tổng số nụ hôn, lịch sử nhận, bộ sưu tập ở trang chủ. Giữ bộ đếm ngày mở app độc lập. Dữ liệu v28 được chuyển đổi ước lượng từ chuỗi ngày học liên tiếp (v28 không lưu đầy đủ lịch sử thưởng). Dữ liệu lưu trên trình duyệt.

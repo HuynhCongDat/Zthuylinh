@@ -1,0 +1,1 @@
+Đếm số ngày mở app theo ngày địa phương; học đủ 20 từ mới/ngày nhận popup và nụ hôn theo chuỗi ngày hoàn thành liên tiếp (nghỉ một ngày thì chuỗi trở lại 1). Một lần thưởng mỗi ngày. Dữ liệu chỉ lưu trong trình duyệt hiện tại.

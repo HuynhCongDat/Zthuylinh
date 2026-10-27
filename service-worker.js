@@ -1,4 +1,4 @@
-const CACHE='nihongo-quest-thuy-linh-match-level-v13-animated-pairs-v15-fix-reappear';
+const CACHE='nihongo-quest-thuy-linh-v28-kiss-reward';
 const ASSETS=['./','./index.html', './test-game.js','./manifest.webmanifest','./sentence-game.js','./matching-game.js','./config.js','./icons/icon-192.png','./icons/icon-512.png','./icons/apple-touch-icon.png','./icons/favicon-32.png','./icons/favicon-16.png','./favicon.ico'];
 self.addEventListener('install',event=>{event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(ASSETS)).then(()=>self.skipWaiting()))});
 self.addEventListener('activate',event=>{event.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(k=>k.startsWith('nihongo-quest-')&&k!==CACHE).map(k=>caches.delete(k)))).then(()=>self.clients.claim()))});

@@ -1,0 +1,1 @@
+V24: bổ sung ngân hàng câu giao tiếp tự nhiên biên soạn cho từ thông dụng; từ chưa có ví dụ sử dụng câu luyện nghe trung tính và được thông báo. Giữ 1 bài / 1 từ đã học, không giả định tất cả đã có câu giao tiếp riêng.
