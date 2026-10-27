@@ -1,0 +1,1 @@
+V30: 20 từ là mục tiêu nhận 1 nụ hôn/ngày, không khóa học tiếp. Thêm 109 từ vựng mới, 16 chủ đề, giữ nguyên index cũ để bảo toàn tiến độ. Các từ bổ sung được gán cấp độ N5/N4 theo mục tiêu học (không phải danh sách JLPT chính thức).
